@@ -1,4 +1,9 @@
-yfinance==0.1.75
-NumPy==1.22.2
+Cython
+numpy
+pandas
+convertdate
 pystan==2.19.1.1
-fbprophet==0.7.1
+yfinance
+streamlit
+plotly
+fbprophet
